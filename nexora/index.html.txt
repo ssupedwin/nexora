@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ÉLÉGANCE | Luxury Apparel & Accessories</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Montserrat:wght@300;400&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav>
+        <div class="logo">ÉLÉGANCE</div>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="products.html">Collections</a></li>
+            <li><a href="about.html">Our Story</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <h1>Crafting Timeless Elegance</h1>
+        <p>Discover bespoke suits, handcrafted watches, and luxury footwear.</p>
+        <a href="products.html" class="btn">Explore Collections</a>
+    </section>
+
+    <!-- Featured Products -->
+    <section class="featured">
+        <h2>Signature Pieces</h2>
+        <div class="products-grid">
+            <div class="product-card">
+                <img src="images/suit.jpg" alt="Bespoke Suit">
+                <h3>Bespoke Suits</h3>
+                <p>Hand-stitched perfection.</p>
+            </div>
+            <div class="product-card">
+                <img src="images/watch.jpg" alt="Luxury Watch">
+                <h3>Masterpiece Watches</h3>
+                <p>Precision meets artistry.</p>
+            </div>
+            <div class="product-card">
+                <img src="images/shoes.jpg" alt="Leather Shoes">
+                <h3>Artisan Footwear</h3>
+                <p>Unparalleled craftsmanship.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2024 ÉLÉGANCE. All rights reserved.</p>
+    </footer>
+</body>
+</html>
